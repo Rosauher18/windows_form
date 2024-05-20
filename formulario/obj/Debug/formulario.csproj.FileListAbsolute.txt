@@ -1,0 +1,10 @@
+C:\xampp\htdocs\C#\windows_forms\formulario\bin\Debug\formulario.exe.config
+C:\xampp\htdocs\C#\windows_forms\formulario\bin\Debug\formulario.exe
+C:\xampp\htdocs\C#\windows_forms\formulario\bin\Debug\formulario.pdb
+C:\xampp\htdocs\C#\windows_forms\formulario\obj\Debug\formulario.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\windows_forms\formulario\obj\Debug\formulario.Form1.resources
+C:\xampp\htdocs\C#\windows_forms\formulario\obj\Debug\formulario.Properties.Resources.resources
+C:\xampp\htdocs\C#\windows_forms\formulario\obj\Debug\formulario.csproj.GenerateResource.cache
+C:\xampp\htdocs\C#\windows_forms\formulario\obj\Debug\formulario.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\windows_forms\formulario\obj\Debug\formulario.exe
+C:\xampp\htdocs\C#\windows_forms\formulario\obj\Debug\formulario.pdb
